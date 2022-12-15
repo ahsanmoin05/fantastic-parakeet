@@ -17,6 +17,7 @@ Use the embeddings name as the keyword.
 Images:
 
 Prompt:face of Anna from frozen, disney style, volumetric lighting, magical, lovely background, pixar animation render, CGI_Animation,  frozen movie
+
 Negative:Grid
 ![02860-1656860511-face of Anna from frozen, disney style, volumetric lighting, magical, lovely background, pixar animation render, CGI_AnimationV2.png](https://s3.amazonaws.com/moonup/production/uploads/1671131882015-6303c53d7373aacccd859bbd.png)
 
