@@ -11,6 +11,8 @@ Textual Inversion Embedding by ConflictX For SD 2.x.
 Install by downloading the step embedding, and put it in the \embeddings folder
 
 A style focused on 3D animated style, mixes well with Disney and Pixar styles.
+The default embedding is 215 steps, the others can be used if you need a lesser or bigger effect.
+
 
 Use the embeddings name as the keyword.
 
